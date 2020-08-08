@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "367900603283",
+    "firebase_url": "https://loja-online-8c7ef.firebaseio.com",
+    "project_id": "loja-online-8c7ef",
+    "storage_bucket": "loja-online-8c7ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367900603283:android:1295818221936489e62e66",
+        "android_client_info": {
+          "package_name": "br.com.felipe_flutter.loja_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367900603283-6od198blvmolpdklm31l76ft9nahpvjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAScXqjuwmqPn8dG7PAyPWcXd74zTbGVbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367900603283-6od198blvmolpdklm31l76ft9nahpvjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
